@@ -184,6 +184,7 @@ footer {
   justify-content: space-between;
 }
 section .title {
+  color: blue;
   position: relative;
   text-align: center;
   font-size: 40px;
